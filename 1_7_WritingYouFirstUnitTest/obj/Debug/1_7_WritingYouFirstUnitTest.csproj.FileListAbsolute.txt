@@ -1,0 +1,12 @@
+D:\[OOP] - Object Oriented Programming\Test\1_7_WritingYouFirstUnitTest\1_7_WritingYouFirstUnitTest\bin\Debug\1_7_WritingYouFirstUnitTest.exe.config
+D:\[OOP] - Object Oriented Programming\Test\1_7_WritingYouFirstUnitTest\1_7_WritingYouFirstUnitTest\bin\Debug\1_7_WritingYouFirstUnitTest.exe
+D:\[OOP] - Object Oriented Programming\Test\1_7_WritingYouFirstUnitTest\1_7_WritingYouFirstUnitTest\bin\Debug\1_7_WritingYouFirstUnitTest.pdb
+D:\[OOP] - Object Oriented Programming\Test\1_7_WritingYouFirstUnitTest\1_7_WritingYouFirstUnitTest\obj\Debug\1_7_WritingYouFirstUnitTest.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\1_7_WritingYouFirstUnitTest\1_7_WritingYouFirstUnitTest\obj\Debug\1_7_WritingYouFirstUnitTest.exe
+D:\[OOP] - Object Oriented Programming\Test\1_7_WritingYouFirstUnitTest\1_7_WritingYouFirstUnitTest\obj\Debug\1_7_WritingYouFirstUnitTest.pdb
+C:\Users\Predator\Desktop\Udemy - NinjaTesting\1_7_WritingYouFirstUnitTest\1_7_WritingYouFirstUnitTest\bin\Debug\1_7_WritingYouFirstUnitTest.exe.config
+C:\Users\Predator\Desktop\Udemy - NinjaTesting\1_7_WritingYouFirstUnitTest\1_7_WritingYouFirstUnitTest\bin\Debug\1_7_WritingYouFirstUnitTest.exe
+C:\Users\Predator\Desktop\Udemy - NinjaTesting\1_7_WritingYouFirstUnitTest\1_7_WritingYouFirstUnitTest\bin\Debug\1_7_WritingYouFirstUnitTest.pdb
+C:\Users\Predator\Desktop\Udemy - NinjaTesting\1_7_WritingYouFirstUnitTest\1_7_WritingYouFirstUnitTest\obj\Debug\1_7_WritingYouFirstUnitTest.csprojAssemblyReference.cache
+C:\Users\Predator\Desktop\Udemy - NinjaTesting\1_7_WritingYouFirstUnitTest\1_7_WritingYouFirstUnitTest\obj\Debug\1_7_WritingYouFirstUnitTest.exe
+C:\Users\Predator\Desktop\Udemy - NinjaTesting\1_7_WritingYouFirstUnitTest\1_7_WritingYouFirstUnitTest\obj\Debug\1_7_WritingYouFirstUnitTest.pdb
